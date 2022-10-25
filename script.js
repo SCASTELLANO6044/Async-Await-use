@@ -1,3 +1,4 @@
+/*
 function resolveAfter2Seconds(x) {
     return new Promise(resolve => {
         setTimeout(() => {
@@ -11,3 +12,4 @@ async function f1() {
     console.log(x); // 10
 }
 f1();
+*/
